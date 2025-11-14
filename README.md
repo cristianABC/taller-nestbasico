@@ -25,6 +25,9 @@ El objetivo de este taller es que los estudiantes demuestren la correcta separac
     nest g mo matematicas
     nest g mo fisica
     nest g mo avanzado
+
+    o
+    nest g res <modulename>
     ```
 3.  **Generar los Controladores y Servicios** para cada módulo (debe hacerse individualmente, ejemplo: `nest g co matematicas`).
 
